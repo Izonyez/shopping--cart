@@ -1,0 +1,11 @@
+{
+    "name": "admin/cart",
+    "description": "Shopping cart system",
+    "authors": [
+        {
+            "name": "isaac mwenda",
+            "email": "isaacmwendak@gmail.com"
+        }
+    ],
+    "require": {}
+}
